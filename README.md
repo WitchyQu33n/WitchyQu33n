@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Witchy_Qu33n</h1>
 <h3 align="center">Am a human who was born one day and trying to leave a mark on this world</h3>
-https://user-images.githubusercontent.com/103266213/176205235-deed8a94-f487-4bb4-be5a-25380948420a.png
+
 
 
 <p align="left"> <a href="https://twitter.com/@btwdora" target="blank"><img src="https://img.shields.io/twitter/follow/@btwdora?logo=twitter&style=for-the-badge" alt="@btwdora" /></a> </p>
@@ -25,4 +25,4 @@ https://user-images.githubusercontent.com/103266213/176205235-deed8a94-f487-4bb4
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/witchy_qu33n"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="witchy_qu33n" /></a></p><br><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=witchyqu33n&show_icons=true&locale=en&layout=compact" alt="witchyqu33n" /></p>
+
