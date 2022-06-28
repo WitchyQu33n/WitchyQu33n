@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Witchy_Qu33n</h1>
 <h3 align="center">Am a human who was born one day and trying to leave a mark on this world</h3>
 
+![githubprofile](https://user-images.githubusercontent.com/103266213/176205778-64da48b3-2d59-493e-a7b7-7d423a0ce4bb.png)
 
 
 <p align="left"> <a href="https://twitter.com/@btwdora" target="blank"><img src="https://img.shields.io/twitter/follow/@btwdora?logo=twitter&style=for-the-badge" alt="@btwdora" /></a> </p>
